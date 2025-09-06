@@ -1,0 +1,41 @@
+header {
+  color: red;
+  background-color: black;
+}
+nav {
+  background-color: purple;
+}
+main {
+  color: blue;
+  background-color: teal;
+}
+.contactInfo {
+  color: white;
+  background-color: red;
+}
+#ctk {
+  color: pink;
+}
+.level300 {
+  color: teal;
+  background-color: blue;
+}
+.sequences {
+  color: cyan;
+  background-color: rgb(255, 131, 152);
+}
+a:link {
+  color: #ff0000;
+}
+
+a:visited {
+  color: #00ff00;
+}
+
+a:active {
+  color: #00ffff;
+}
+
+a:hover {
+  color: #ffff00;
+}
