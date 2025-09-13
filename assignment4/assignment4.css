@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, Halvetica, sans-serif;
+  background-image: url(ctk_courses.jpg);
+}
+header {
+  color: red;
+  background-color: black;
+}
+nav {
+  background-color: purple;
+}
+main {
+  color: blue;
+  background-color: teal;
+}
+.ctk_img {
+  border: 10px solid black;
+  padding: 16px;
+  margin: 8px;
+  background-color: yellow;
+}
+.contactInfo {
+  color: white;
+  background-color: red;
+}
+#ctk {
+  color: pink;
+  text-align: center;
+}
+.level300 {
+  color: teal;
+  background-color: blue;
+}
+.sequences {
+  color: cyan;
+  background-color: rgb(255, 131, 152);
+}
+.justified {
+  text-align: justify;
+}
+h1 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+h2 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+h3 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+a:link {
+  color: #ff0000;
+}
+
+a:visited {
+  color: #00ff00;
+}
+
+a:active {
+  color: #00ffff;
+}
+
+a:hover {
+  color: #ffff00;
+}
